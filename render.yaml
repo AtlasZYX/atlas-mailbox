@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: atlas-mailbox
-    runtime: python
-    buildCommand: ""
-    startCommand: "python main.py"
-    autoDeploy: true
